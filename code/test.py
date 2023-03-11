@@ -2,6 +2,7 @@ import akshare as ak
 import matplotlib.pyplot as plt 
 from pylab import mpl
 import pandas as pd
+from jqdatasdk  import *
 
 
 if __name__ == "__main__":
