@@ -1,5 +1,9 @@
 # automatic_transaction
 分析上证指数，并建立买卖规则，实现自动化交易
+要求：
+![题目](https://user-images.githubusercontent.com/124339298/224542363-65182114-4413-41e6-b166-199bc78f098d.jpg)
+
+完整代码：https://github.com/Lancercxy/automatic_transaction/blob/main/jupyter%20notebook/.ipynb_checkpoints/quanti-checkpoint.ipynb
 
 #20230310
 完成数据采集与设计算法计算cci值
