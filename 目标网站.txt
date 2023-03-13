@@ -3,3 +3,6 @@ https://q.stock.sohu.com/zs/000001/lshq.shtml
 
 上证指数历史行情信息包链接：
 https://q.stock.sohu.com/hisHq?code=zs_000001&stat=1&order=D&period=d&callback=historySearchHandler&rt=jsonp&0.4530586399394587
+
+项目网站：
+https://github.com/Lancercxy/automatic_transaction
