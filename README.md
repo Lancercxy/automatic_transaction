@@ -6,9 +6,15 @@
 
 整体代码：https://github.com/Lancercxy/automatic_transaction/blob/main/jupyter%20notebook/.ipynb_checkpoints/quanti-checkpoint.ipynb
 
+聚宽回测：https://www.joinquant.com/algorithm/backtest/detail?backtestId=662fa6e48bae894b07e2f048109942f0
+
 # 程序说明书：请下载 《程序设计报告.pdf》 查看
 
 以下为一些效果图：
+
+聚宽回测：
+
+![c107e4ef2f3d332d46474954c1fc506](https://user-images.githubusercontent.com/124339298/224918054-84300b49-1979-41a4-97d3-14fe133caeb7.png)
 
 完成数据采集与设计算法计算cci值
 
